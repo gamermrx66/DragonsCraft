@@ -1,9 +1,11 @@
 {
+  "description": "Crafty Panel",
+  "repo": "https://github.com/gamermrx66",
   "owner": {
-    "username": "gamermrx66B",
+    "username": "gamermrx66",
     "email": "gamermrx66@gmail.com"
   },
   "record": {
-    "CNAME": "tu-tunnel.cfargotunnel.com"
+    "CNAME": "example.com"
   }
 }
